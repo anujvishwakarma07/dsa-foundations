@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class TrappingRainWater {
+public class TrappingRainWater42 {
     public static int rainWater(int height[]) {
         int n = height.length;
 
