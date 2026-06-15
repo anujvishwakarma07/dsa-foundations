@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ProductOfAnArrayExpectSelf234 {
+public class ProductOfAnArrayExpectSelf238 {
     public static void productOfAnArray(int nums[]) {
 
         // divideation approch - but in LC divide operator not allowed to solve this problem
