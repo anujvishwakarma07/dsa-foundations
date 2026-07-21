@@ -36,9 +36,9 @@ public class SearchIn2DMatrix74 {
         return false;
     }
     public static void main(String[] args) {
-        int matrix[][] = { { 1, 3, 5, 7 }, { 10, 11, 16, 20 }, { 23, 30, 34, 60 } };
-        int matrix[][] = { { 1, 3, 5, 7 }, { 10, 11, 16, 20 }, { 23, 30, 34, 60 } };
-        int target = 30;
+        // int matrix[][] = { { 1, 3, 5, 7 }, { 10, 11, 16, 20 }, { 23, 30, 34, 60 } };
+        int matrix[][] = { { 1, 3, 5, 7 }};
+        int target = 3;
         System.out.println(searchInTwoDmatrix(matrix, target));
     }
 }
